@@ -1,260 +1,280 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0f3460&height=200&section=header&text=Vitor%20Henrique%20Camillo&fontSize=42&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Mobile%20%7C%20Full%20Stack%20%7C%20Game%20Dev&descAlignY=58&descColor=8b949e&descSize=18" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Vitor+%F0%9F%91%8B;Engenheiro+de+Software+em+formação;Desenvolvedor+Mobile+%26+Full+Stack;Criador+de+jogos+nas+horas+vagas;Apaixonado+por+IA+e+inovação)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0f1e,70:0d2260,100:1a3ab8&height=220&section=header&text=VITOR%20HENRIQUE%20CAMILLO&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Mobile%20%7C%20Full%20Stack%20%7C%20Founder&descAlignY=62&descColor=4d9fff&descSize=17&stroke=1a3ab8&strokeWidth=2" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-henrique-camillo)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorcamilloh@gmail.com)
-[![itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://camillox2.itch.io)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Camillox2)
+<img src="./dcsemfundooriginal.png" width="180"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Camillox2&color=58a6ff&style=for-the-badge&label=VISITAS+AO+PERFIL)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=4D9FFF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+7th+Semester+Computer+Science;Founder+%26+CEO+%40+DC+Foundry+Digital;Mobile+Developer+—+React+Native+%26+Flutter;Full+Stack+with+Java+Spring+Boot+%26+Node.js;Visual+Novel+Author+—+Sapphire+Days)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="https://dcfoundrydigital.com">
+  <img src="https://img.shields.io/badge/DC%20FOUNDRY%20DIGITAL-Founder%20%26%20CEO-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0f1e"/>
+</a>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/vitor-henrique-camillo">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vitorcamilloh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://camillox2.itch.io/sapphire-days">
+  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+</a>
+<a href="https://github.com/Camillox2">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://dcfoundrydigital.com">
+  <img src="https://img.shields.io/badge/dcfoundrydigital.com-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Camillox2&color=1a3ab8&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Sobre Mim
+## <img src="https://cdn.simpleicons.org/aboutdotme/4d9fff" width="22" align="center"/> &nbsp; About Me
 
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 12px"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:8px; margin-left:20px"/>
 
-```yaml
-name: Vitor Henrique Camillo
-location: Curitiba, PR 🇧🇷
-role: Software Developer @ Evo Sistemas Inteligentes
-education: Engenharia de Software — Universidade Positivo (7º período)
-graduation: 2026
+```typescript
+const vitor: Developer = {
+  name     : "Vitor Henrique Camillo",
+  location : "Curitiba, PR — Brazil",
+  education: "Software Engineering @ Universidade Positivo",
+  semester : "7th Period · Graduating 2026",
+  company  : "DC Foundry Digital (Founder & CEO)",
+  website  : "dcfoundrydigital.com",
 
-currently:
-  - 📱 Desenvolvendo apps mobile multiplataforma com React Native
-  - ☕ Construindo backends robustos em Java Spring Boot
-  - 🤖 Integrando IA em projetos reais (Gemini AI)
-  - 🎮 Criando Visual Novels independentes com Ren'Py
+  expertise: [
+    "Mobile Development  (React Native · Flutter)",
+    "Backend Engineering (Java Spring Boot · Node.js)",
+    "Full Stack Web      (Next.js · React · Angular)",
+    "AI Integration      (Gemini AI · NVIDIA Jetson)",
+  ],
 
-passions:
-  - Mobile Development
-  - Clean Architecture
-  - Artificial Intelligence
-  - Game Development
-  - Open Source
-
-fun_fact: "Fui palestrante na Viasoft Connect! 🎤"
+  highlight: "Speaker at Viasoft Connect · NVIDIA AI Certified",
+  building : "Sapphire Days — Visual Novel (Ren'Py)",
+};
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Stack Tecnológica
+## <img src="https://cdn.simpleicons.org/blueprint/4d9fff" width="22" align="center"/> &nbsp; Tech Stack
 
 <div align="center">
 
-### 📱 Mobile & Frontend
+### Mobile & Frontend
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,flutter,nextjs,angular,tailwind,html,css&theme=dark"/>
 
-### ⚙️ Backend & Linguagens
+### Backend & Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,kotlin,dart,cs&theme=dark"/>
 
-### 🗄️ Banco de Dados & Ferramentas
+### Database & DevOps
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<img src="https://skillicons.dev/icons?i=mysql,prisma,git,github,linux,vscode,androidstudio&theme=dark"/>
 
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## <img src="https://cdn.simpleicons.org/briefcase/4d9fff" width="22" align="center"/> &nbsp; Professional Journey
 
 <div align="center">
 
-### 🎮 Sapphire Days — Visual Novel
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   DC FOUNDRY DIGITAL  ·  Founder & CEO           Jan 2026 → Present
+   dcfoundrydigital.com · Curitiba, PR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Founded and runs DC Foundry Digital — digital solutions agency
+   focused on mobile, web and full-stack development for clients.
+   End-to-end project ownership from architecture to deployment.
+
+   TECNOPONTO  ·  Software Developer (CLT)         Jun 2025 → Dec 2025
+   Curitiba, PR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Development of time-tracking and HR management systems.
+   Mobile and web solutions, Java backend and RESTful APIs.
+
+   EVO SISTEMAS INTELIGENTES  ·  Software Intern   Jan 2025 → Jun 2025
+   Curitiba, PR
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+   Time-clock and attendance systems. Applied React Native, Flutter
+   and Java. Contributed to modernization of legacy platforms.
+```
 
 </div>
 
-> **Uma Visual Novel de romance ambientada em uma ilha paradisíaca e misteriosa.**
->
-> Acompanhe o protagonista em sua jornada cercado por **4 heroínas únicas**, cada uma com história, personalidade e segredos próprios. Múltiplas rotas, finais diferentes e trilha sonora imersiva!
+---
 
-| Detalhe | Info |
+## <img src="https://cdn.simpleicons.org/rocket/4d9fff" width="22" align="center"/> &nbsp; Featured Projects
+
+---
+
+### <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="18" align="center"/> &nbsp; Sapphire Days — Visual Novel
+
+> **Romance Visual Novel set on a mysterious paradise island.**
+> Follow the protagonist through the stories of **4 unique heroines**, each carrying their own secrets, personality and narrative arc.
+> Multiple routes, multiple endings, immersive soundtrack — built entirely with Ren'Py.
+
+<div align="center">
+
+| | |
 |---|---|
-| 🕹️ Gênero | Visual Novel / Romance |
-| 🛠️ Engine | Ren'Py |
-| 💻 Plataformas | Windows · macOS · Linux |
-| 🏷️ Tags | Anime · Multiple Endings · Romance |
-| 🌐 Idioma | Português (Brasil) |
-| ⏱️ Duração média | Algumas horas |
+| **Engine** | Ren'Py |
+| **Platforms** | Windows · macOS · Linux |
+| **Genre** | Visual Novel · Romance · Anime |
+| **Language** | Portuguese (Brazil) |
+| **Session** | A few hours |
+| **Status** | Prototype — v1.0 released |
 
-<div align="center">
+<br/>
 
-[![Jogar Sapphire Days](https://img.shields.io/badge/🎮%20Jogar%20Sapphire%20Days-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://camillox2.itch.io/sapphire-days)
+<a href="https://camillox2.itch.io/sapphire-days">
+  <img src="https://img.shields.io/badge/PLAY%20SAPPHIRE%20DAYS-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
+### <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" align="center"/> &nbsp; Entre Fases — Women's Health App
+
+> Mobile app for **feminine cycle, pregnancy and menopause tracking**, powered by **Google Gemini AI** for intelligent therapeutic support. Robust Java Spring Boot backend.
+
 <div align="center">
 
-### 📱 Entre Fases — App de Saúde Feminina
-
-</div>
-
-> **Aplicativo mobile focado no controle do ciclo feminino, gravidez e menopausa.**
->
-> Integração com **Gemini AI** para consultas e suporte terapêutico inteligente. Backend em Java Spring Boot para gerenciamento de dados de saúde.
-
-| Detalhe | Info |
+| Stack | Technologies |
 |---|---|
-| 📱 Stack Mobile | React Native (iOS & Android) |
-| ☕ Backend | Java Spring Boot |
-| 🤖 IA | Google Gemini AI |
-| 🗄️ Banco de Dados | MySQL |
+| Mobile | React Native (iOS & Android) |
+| Backend | Java Spring Boot |
+| AI | Google Gemini |
+| Database | MySQL |
 
-<div align="center">
-
-[![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Camillox2/Entre-Fases)
+<a href="https://github.com/Camillox2/Entre-Fases">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
+### <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="18" align="center"/> &nbsp; Pizzaria Web System
+
+> Full-stack web application for pizzeria order management — shopping cart, product management, order tracking, responsive interface.
+
 <div align="center">
 
-### 🍕 Sistema Web para Pizzaria
-
-</div>
-
-> Aplicação web completa para gestão de pedidos — carrinho, produtos, controle de pedidos e interface responsiva.
-
-| Stack | Tecnologias |
+| Stack | Technologies |
 |---|---|
 | Frontend | Next.js · React.js · Tailwind CSS |
 | Backend/ORM | Node.js · Prisma · MySQL |
 
-<div align="center">
-
-[![Ver Repositório](https://img.shields.io/badge/Ver%20Repositório-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Camillox2/Pizzaria-New-28-06)
-
-</div>
-
----
-
-<div align="center">
-
-### 🦷 Site Institucional — Dr. Adriano Camillo
-
-</div>
-
-> Site responsivo para consultório odontológico, desenvolvido em **React.js** como projeto freelance.
-
-<div align="center">
-
-[![Ver Site](https://img.shields.io/badge/🌐%20Ver%20Site-0d1117?style=for-the-badge)](https://dradrianocamillo.com/)
+<a href="https://github.com/Camillox2/Pizzaria-New-28-06">
+  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 🏅 Certificações & Conquistas
+### <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" align="center"/> &nbsp; Dr. Adriano Camillo — Dental Clinic Website
+
+> Responsive institutional website for a dental practice. Built with React.js as a freelance project.
 
 <div align="center">
 
-| 🏆 Certificação | 🏢 Emissor | 📅 Data |
+<a href="https://dradrianocamillo.com">
+  <img src="https://img.shields.io/badge/VISIT%20WEBSITE-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/credly/4d9fff" width="22" align="center"/> &nbsp; Certifications
+
+<div align="center">
+
+| Certification | Issuer | Date |
 |---|---|---|
-| 🤖 Getting Started with AI on Jetson Nano | NVIDIA | Abr 2026 |
-| 🧠 AI Capabilities and Limitations | Anthropic | Abr 2026 |
-| 🌐 AI Fluency Framework & Foundations | Anthropic | Abr 2026 |
-| 🔐 Segurança de Endpoint | Cisco | Out 2025 |
-| 🇬🇧 Inglês para TI 1 (B2) | Cisco | Out 2025 |
-| 🏅 Master Class Gurus — TCS CodeVita S12 | TCS CodeVita | Nov 2024 |
-| 📊 Palestra ExxonMobil Data & Analytics' Day | Universidade Positivo | Out 2024 |
-| 🎤 Workshop Liderança e Comunicação | Universidade Positivo | Set 2023 |
-| 🎙️ Palestrante — Viasoft Connect | VIASOFT | Jun 2023 |
+| Getting Started with AI on Jetson Nano | <img src="https://cdn.simpleicons.org/nvidia/76b900" width="14"/> NVIDIA | Apr 2026 |
+| AI Capabilities and Limitations | <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="14"/> Anthropic | Apr 2026 |
+| AI Fluency Framework & Foundations | <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="14"/> Anthropic | Apr 2026 |
+| Segurança de Endpoint | <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="14"/> Cisco | Oct 2025 |
+| Inglês para TI 1 — B2 Level | <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="14"/> Cisco | Oct 2025 |
+| Master Class Gurus — TCS CodeVita Season 12 | TCS CodeVita | Nov 2024 |
+| ExxonMobil Data & Analytics' Day | Universidade Positivo | Oct 2024 |
+| Workshop Liderança e Comunicação | Universidade Positivo | Sep 2023 |
+| Speaker — Viasoft Connect | VIASOFT | Jun 2023 |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://cdn.simpleicons.org/githubactions/4d9fff" width="22" align="center"/> &nbsp; GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camillox2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camillox2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Camillox2&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Camillox2&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 💼 Experiência Profissional
-
-```
-📍 Evo Sistemas Inteligentes — Curitiba, PR
-├── 🔵 Desenvolvedor de Software (CLT)  ·············  Jun 2025 → Atual
-│   ├── 📱 App mobile iOS/Android com React Native
-│   ├── ☕ Backend robusto em Java
-│   ├── 🌐 Sistemas web com Flutter/Dart
-│   └── 🔄 Integração mobile ↔ web em tempo real
-│
-└── 🟡 Estagiário de Desenvolvimento  ···············  Jan 2025 → Jun 2025
-    ├── 🕐 Sistemas de registro de ponto
-    └── 🔧 Modernização de sistemas legados
-```
-
----
-
-<div align="center">
-
-### 📫 Vamos construir algo incrível juntos?
-
-[![LinkedIn](https://img.shields.io/badge/Me%20chama%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-henrique-camillo)
-[![Email](https://img.shields.io/badge/Manda%20um%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorcamilloh@gmail.com)
-[![itch.io](https://img.shields.io/badge/Joga%20meu%20game-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://camillox2.itch.io/sapphire-days)
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Camillox2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=4d9fff&text_color=c9d1d9&ring_color=1a3ab8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camillox2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4d9fff&text_color=c9d1d9"/>
 
 <br/>
 
-*"Código é poesia — cada linha conta uma história."* ✨
+<img src="https://streak-stats.demolab.com?user=Camillox2&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a3ab8&ring=4d9fff&fire=4d9fff&currStreakLabel=4d9fff&sideLabels=4d9fff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
+
+</div>
+
+---
+
+## <img src="https://cdn.simpleicons.org/trophy/4d9fff" width="22" align="center"/> &nbsp; GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Camillox2&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1b27,100:0d1117&height=120&section=footer" />
+### Let's build something extraordinary.
+
+<a href="https://linkedin.com/in/vitor-henrique-camillo">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:vitorcamilloh@gmail.com">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://dcfoundrydigital.com">
+  <img src="https://img.shields.io/badge/DC%20Foundry%20Digital-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub><sup>
+  <img src="https://cdn.simpleicons.org/github/4d9fff" width="10"/> &nbsp; Vitor Henrique Camillo · Curitiba, Brazil · <strong>dcfoundrydigital.com</strong>
+</sup></sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3ab8,50:0d2260,100:0a0f1e&height=120&section=footer"/>
 
 </div>
