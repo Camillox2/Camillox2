@@ -1,56 +1,144 @@
-# Olá, eu sou o Vitor Henrique Camillo! 👋
+<h1 align="center">Vitor Henrique Camillo</h1>
 
-Desenvolvedor de Software Full Stack apaixonado por criar soluções mobile eficientes e experiências interativas. Atualmente no 7º período de Engenharia de Software na Universidade Positivo.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Mobile+Specialist;AI+Enthusiast;Building+Scalable+Systems+and+Interactive+Experiences" />
+</p>
 
----
-
-### 🚀 Sobre Mim
-- 💼 Atualmente atuando na **Evo Sistemas Inteligentes** com React Native, Java e Flutter.
-- 📱 Especialista em desenvolvimento multiplataforma e sistemas de gestão.
-- 🤖 Integrando IA em projetos práticos, como o assistente de saúde *Entre Fases*.
-- 🎮 Desenvolvedor independente de jogos nas horas vagas.
-
----
-
-### 🛠️ Tecnologias e Habilidades
-
-**Linguagens & Mobile**
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
-**Web & Backend**
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodesdotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/vitor-henrique-camillo">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Camillox2">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:vitorcamilloh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🎮 Projetos em Destaque
+## Profile
 
-#### [Sapphire Days](https://camillox2.itch.io/sapphire-days)
-Uma Visual Novel envolvente desenvolvida de forma independente. 
-- **Plataforma:** Itch.io
-- **Gênero:** Narrativo / Visual Novel
-- [**Jogue aqui!**](https://camillox2.itch.io/sapphire-days)
+Software Engineer focused on delivering scalable and high-performance applications across mobile and web platforms. Strong experience in building real-world systems from concept to production, including backend architecture, mobile apps, and AI integration.
 
-#### [Entre Fases](https://github.com/Camillox2/Entre-Fases)
-Aplicativo focado em saúde feminina utilizando **Gemini AI** para acompanhamento inteligente.
+* Software Engineering student (7th semester)
+* Developer at Evo Sistemas Inteligentes
+* Experience with production systems and real users
+* Strong focus on performance, architecture, and usability
 
 ---
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub de Vitor](https://github-readme-stats.vercel.app/api?username=Camillox2&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Camillox2&layout=compact&theme=tokyonight)
+## Featured Project
+
+### Sapphire Days
+
+<p align="center">
+  <a href="https://camillox2.itch.io/sapphire-days">
+    <img src="https://img.shields.io/badge/Play%20Now-000?style=for-the-badge&logo=itch.io&logoColor=white"/>
+  </a>
+</p>
+
+Independent Visual Novel focused on immersive storytelling and interactive narrative.
+
+* Narrative-driven experience
+* Anime-inspired visual design
+* Fully developed as a solo project
 
 ---
 
-### 📫 Vamos conversar?
-- **LinkedIn:** [vitor-henrique-camillo](https://linkedin.com/in/vitor-henrique-camillo)
-- **Email:** vitorcamilloh@gmail.com
-- **Portfólio Freelance:** [dradrianocamillo.com](https://dradrianocamillo.com/)
+## Projects
+
+### Entre Fases
+
+Mobile application focused on women's health with AI integration.
+
+* React Native
+* Java Spring Boot
+* AI integration
+
+```
+Mobile • Backend • AI
+```
 
 ---
+
+### Pizzaria Management System
+
+Full web-based system for order and business management.
+
+* Next.js
+* Prisma
+* MySQL
+
+```
+Full Stack • Web System • Business Logic
+```
+
+---
+
+### Full Stack Integrated System
+
+Scalable and modular architecture integrating multiple technologies.
+
+* Node.js
+* TypeScript
+* Kotlin
+* Java
+
+```
+Distributed Systems • API Integration
+```
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,java,spring,nodejs,nextjs,tailwind,mysql,git,github,vscode,androidstudio" />
+</p>
+
+---
+
+## Architecture Focus
+
+* REST API design
+* Scalable backend systems
+* Mobile-first applications
+* Real-time data synchronization
+* AI integration in production environments
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Camillox2&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camillox2&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Camillox2&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Camillox2&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## Contact
+
+* LinkedIn: [https://linkedin.com/in/vitor-henrique-camillo](https://linkedin.com/in/vitor-henrique-camillo)
+* Email: [vitorcamilloh@gmail.com](mailto:vitorcamilloh@gmail.com)
+* Portfolio: [https://dradrianocamillo.com/](https://dradrianocamillo.com/)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
