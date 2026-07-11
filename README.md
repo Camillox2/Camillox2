@@ -1,280 +1,212 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0f1e,70:0d2260,100:1a3ab8&height=220&section=header&text=VITOR%20HENRIQUE%20CAMILLO&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Mobile%20%7C%20Full%20Stack%20%7C%20Founder&descAlignY=62&descColor=4d9fff&descSize=17&stroke=1a3ab8&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0f1e,70:0d2260,100:1a3ab8&height=230&section=header&text=VITOR%20HENRIQUE%20CAMILLO&fontSize=39&fontColor=ffffff&animation=fadeIn&fontAlignY=39&desc=Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20Full%20Stack%20%26%20Mobile%20%7C%20AI%20%26%20Cloud&descAlignY=61&descColor=4d9fff&descSize=16&stroke=1a3ab8&strokeWidth=2" width="100%"/>
 
 <br/>
 
-<img src="./dcsemfundooriginal.png" width="180"/>
+<img src="./dcsemfundooriginal.png" width="170" alt="DC Foundry Digital logo"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=4D9FFF&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+7th+Semester+Computer+Science;Founder+%26+CEO+%40+DC+Foundry+Digital;Mobile+Developer+—+React+Native+%26+Flutter;Full+Stack+with+Java+Spring+Boot+%26+Node.js;Visual+Novel+Author+—+Sapphire+Days)](https://git.io/typing-svg)
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=4D9FFF&center=true&vCenter=true&width=760&lines=B.Sc.+in+Software+Engineering+—+Graduate;Tech+Lead+%40+Vital+Scheffer;Founder+%26+Lead+Software+Engineer+%40+DC+Foundry+Digital;Full+Stack+%E2%80%A2+Mobile+%E2%80%A2+AI+Automation+%E2%80%A2+AWS;Italian+Citizen+%E2%80%A2+Open+to+Portugal+%26+the+EU)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://dcfoundrydigital.com">
-  <img src="https://img.shields.io/badge/DC%20FOUNDRY%20DIGITAL-Founder%20%26%20CEO-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0f1e"/>
+  <img src="https://img.shields.io/badge/DC%20FOUNDRY%20DIGITAL-Founder%20%26%20Lead%20Engineer-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0f1e" alt="DC Foundry Digital"/>
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/vitor-henrique-camillo">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Vitor%20Camillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:vitorcamilloh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://camillox2.itch.io/sapphire-days">
-  <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://github.com/Camillox2">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Camillox2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://dcfoundrydigital.com">
-  <img src="https://img.shields.io/badge/dcfoundrydigital.com-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1a3ab8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Camillox2&color=1a3ab8&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Camillox2&label=PROFILE%20VIEWS&color=1a3ab8&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## <img src="https://cdn.simpleicons.org/aboutdotme/4d9fff" width="22" align="center"/> &nbsp; About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:8px; margin-left:20px"/>
+## 👨‍💻 About Me
 
 ```typescript
-const vitor: Developer = {
-  name     : "Vitor Henrique Camillo",
-  location : "Curitiba, PR — Brazil",
-  education: "Software Engineering @ Universidade Positivo",
-  semester : "7th Period · Graduating 2026",
-  company  : "DC Foundry Digital (Founder & CEO)",
-  website  : "dcfoundrydigital.com",
-
-  expertise: [
-    "Mobile Development  (React Native · Flutter)",
-    "Backend Engineering (Java Spring Boot · Node.js)",
-    "Full Stack Web      (Next.js · React · Angular)",
-    "AI Integration      (Gemini AI · NVIDIA Jetson)",
+const vitor = {
+  role: "Software Engineer & Tech Lead",
+  education: "B.Sc. in Software Engineering — Universidade Positivo",
+  company: "Founder & Lead Software Engineer at DC Foundry Digital",
+  location: "Curitiba, Brazil",
+  workAuthorization: "Italian citizen — authorized to work across the European Union",
+  focus: [
+    "Full Stack Development",
+    "Mobile Applications",
+    "AI Agents & Business Automation",
+    "Cloud Solutions with AWS"
   ],
-
-  highlight: "Speaker at Viasoft Connect · NVIDIA AI Certified",
-  building : "Sapphire Days — Visual Novel (Ren'Py)",
+  currentlyBuilding: "Scalable digital products that connect software, automation and AI"
 };
 ```
 
-<br clear="right"/>
+I build **web, mobile and backend products** with a strong focus on business impact, maintainability and real-world delivery. My experience includes corporate systems, ERP integrations, NF-e and inventory automation, mobile applications published to the App Store and Google Play, and AI-powered workflows for customer service, sales and operations.
+
+Today, I work as a **Tech Lead at Vital Scheffer** and lead **DC Foundry Digital**, creating custom software, websites, automations and applied AI solutions for businesses.
 
 ---
 
-## <img src="https://cdn.simpleicons.org/blueprint/4d9fff" width="22" align="center"/> &nbsp; Tech Stack
+## 🚀 Current Focus
 
-<div align="center">
-
-### Mobile & Frontend
-
-<img src="https://skillicons.dev/icons?i=react,flutter,nextjs,angular,tailwind,html,css&theme=dark"/>
-
-### Backend & Languages
-
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,ts,js,kotlin,dart,cs&theme=dark"/>
-
-### Database & DevOps
-
-<img src="https://skillicons.dev/icons?i=mysql,prisma,git,github,linux,vscode,androidstudio&theme=dark"/>
-
-</div>
+- Leading software development and mentoring a small technical team
+- Building enterprise automations and integrations with **AWS, ERP/Omie and AI**
+- Developing web and mobile products with **React, React Native, Flutter, Java and Node.js**
+- Expanding my cloud architecture knowledge toward AWS professional certifications
+- Preparing for software engineering opportunities in **Portugal and across the European Union**
 
 ---
 
-## <img src="https://cdn.simpleicons.org/briefcase/4d9fff" width="22" align="center"/> &nbsp; Professional Journey
+## 🧰 Technology Stack
 
-<div align="center">
+### Languages
 
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   DC FOUNDRY DIGITAL  ·  Founder & CEO           Jan 2026 → Present
-   dcfoundrydigital.com · Curitiba, PR
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   Founded and runs DC Foundry Digital — digital solutions agency
-   focused on mobile, web and full-stack development for clients.
-   End-to-end project ownership from architecture to deployment.
+<p>
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,dart,kotlin,swift,cs,html,css&perline=10" alt="Languages"/>
+</p>
 
-   TECNOPONTO  ·  Software Developer (CLT)         Jun 2025 → Dec 2025
-   Curitiba, PR
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   Development of time-tracking and HR management systems.
-   Mobile and web solutions, Java backend and RESTful APIs.
+### Frontend & Mobile
 
-   EVO SISTEMAS INTELIGENTES  ·  Software Intern   Jan 2025 → Jun 2025
-   Curitiba, PR
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-   Time-clock and attendance systems. Applied React Native, Flutter
-   and Java. Contributed to modernization of legacy platforms.
-```
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,flutter&perline=8" alt="Frontend and mobile"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+</p>
 
-</div>
+### Backend, Cloud & Data
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,aws,docker,mysql,postgres,prisma,redis&perline=8" alt="Backend, cloud and databases"/>
+</p>
 
-## <img src="https://cdn.simpleicons.org/rocket/4d9fff" width="22" align="center"/> &nbsp; Featured Projects
+### AI, Development & Delivery
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio&perline=8" alt="Development tools"/>
+  <img src="https://img.shields.io/badge/Generative_AI-0A0F1E?style=for-the-badge&logo=openai&logoColor=4D9FFF" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-0A0F1E?style=for-the-badge&logo=googlegemini&logoColor=4D9FFF" alt="Gemini AI"/>
+  <img src="https://img.shields.io/badge/NVIDIA_CUDA-0A0F1E?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="NVIDIA CUDA"/>
+</p>
 
 ---
 
-### <img src="https://cdn.simpleicons.org/itchdotio/FA5C5C" width="18" align="center"/> &nbsp; Sapphire Days — Visual Novel
+## 💼 Professional Highlights
 
-> **Romance Visual Novel set on a mysterious paradise island.**
-> Follow the protagonist through the stories of **4 unique heroines**, each carrying their own secrets, personality and narrative arc.
-> Multiple routes, multiple endings, immersive soundtrack — built entirely with Ren'Py.
-
-<div align="center">
-
-| | |
+| Area | Experience |
 |---|---|
-| **Engine** | Ren'Py |
-| **Platforms** | Windows · macOS · Linux |
-| **Genre** | Visual Novel · Romance · Anime |
-| **Language** | Portuguese (Brazil) |
-| **Session** | A few hours |
-| **Status** | Prototype — v1.0 released |
+| **Technical Leadership** | Leading development activities, organizing deliveries and supporting junior developers |
+| **Enterprise Software** | Corporate systems, business rules, maintenance, integrations and operational workflows |
+| **Automation** | NF-e, billing, inventory, ERP/Omie, customer service and sales automation |
+| **Mobile Engineering** | React Native and Flutter apps for Android and iOS, including store publication |
+| **Backend Engineering** | Java Spring Boot, Node.js, REST APIs, relational databases and system integrations |
+| **Applied AI** | Local AI, Gemini integrations, AI assistants, lead-generation flows and autonomous agents |
+| **Cloud** | Practical experience with AWS services including EC2, IAM and S3 |
+
+---
+
+## 🌟 Selected Projects
+
+### [DC Foundry Digital](https://dcfoundrydigital.com)
+Software studio focused on websites, web and mobile applications, business automation and applied artificial intelligence. The platform includes an integrated AI assistant and showcases custom digital solutions.
+
+### Keilinks — Local AI Platform
+Local AI environment built with Python, CUDA and GPU acceleration, exploring assistants, agents, private inference and business automation.
+
+### Entre Fases
+Mobile application developed with **React Native**, **Java Spring Boot** and **Gemini AI**, designed to support women's health tracking and intelligent guidance.
+
+### Sapphire Days
+A published visual novel built with **Ren'Py**, featuring branching routes, player choices, original soundtrack and releases for Windows, macOS and Linux.
+
+### Enterprise & Client Solutions
+Development of corporate tools, ERP integrations, mobile time-tracking systems, responsive websites, landing pages and custom platforms for real clients.
+
+---
+
+## 🎓 Education & Professional Development
+
+### Bachelor of Science in Software Engineering
+**Universidade Positivo — Curitiba, Brazil**  
+Completed in 2026
+
+### AWS Learning — Alura
+- **AWS Certified Cloud Practitioner: Domains 1 & 2**
+- **AWS Certified Cloud Practitioner: Domains 3 & 4**
+
+### Artificial Intelligence
+- **AI Fluency for Small Businesses** — Anthropic
+- **Introduction to Subagents** — Anthropic
+- **AI Capabilities and Limitations** — Anthropic
+- **AI Fluency Framework & Foundations** — Anthropic
+- **Getting Started with AI on Jetson Nano** — NVIDIA
+
+### Additional Training
+- **English for IT 1** — Cisco
+- **Endpoint Security** — Cisco
+- Speaker at **ExxonMobil Data & Analytics Day**
+- Speaker at **Viasoft Connect**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Camillox2&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=4D9FFF&text_color=E6EDF3&icon_color=1A3AB8&bg_color=0D1117" alt="Vitor's GitHub statistics"/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camillox2&layout=compact&hide_border=true&langs_count=8&title_color=4D9FFF&text_color=E6EDF3&bg_color=0D1117" alt="Most used languages"/>
 
 <br/>
 
-<a href="https://camillox2.itch.io/sapphire-days">
-  <img src="https://img.shields.io/badge/PLAY%20SAPPHIRE%20DAYS-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white"/>
-</a>
+<img src="https://streak-stats.demolab.com?user=Camillox2&hide_border=true&background=0D1117&ring=1A3AB8&fire=4D9FFF&currStreakLabel=4D9FFF&sideLabels=E6EDF3&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
 
 </div>
 
----
-
-### <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" align="center"/> &nbsp; Entre Fases — Women's Health App
-
-> Mobile app for **feminine cycle, pregnancy and menopause tracking**, powered by **Google Gemini AI** for intelligent therapeutic support. Robust Java Spring Boot backend.
-
-<div align="center">
-
-| Stack | Technologies |
-|---|---|
-| Mobile | React Native (iOS & Android) |
-| Backend | Java Spring Boot |
-| AI | Google Gemini |
-| Database | MySQL |
-
-<a href="https://github.com/Camillox2/Entre-Fases">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+> GitHub language statistics reflect public repositories and do not represent the full scope of my professional work in private and corporate codebases.
 
 ---
 
-### <img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="18" align="center"/> &nbsp; Pizzaria Web System
+## 🌍 Let's Connect
 
-> Full-stack web application for pizzeria order management — shopping cart, product management, order tracking, responsive interface.
+I am open to conversations about:
 
-<div align="center">
-
-| Stack | Technologies |
-|---|---|
-| Frontend | Next.js · React.js · Tailwind CSS |
-| Backend/ORM | Node.js · Prisma · MySQL |
-
-<a href="https://github.com/Camillox2/Pizzaria-New-28-06">
-  <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-### <img src="https://cdn.simpleicons.org/react/61DAFB" width="18" align="center"/> &nbsp; Dr. Adriano Camillo — Dental Clinic Website
-
-> Responsive institutional website for a dental practice. Built with React.js as a freelance project.
+- Software engineering and technical leadership
+- Full stack, backend and mobile development
+- AI agents, automation and cloud architecture
+- Freelance projects and digital product partnerships
+- Opportunities in **Portugal and across the European Union**
 
 <div align="center">
 
-<a href="https://dradrianocamillo.com">
-  <img src="https://img.shields.io/badge/VISIT%20WEBSITE-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## <img src="https://cdn.simpleicons.org/credly/4d9fff" width="22" align="center"/> &nbsp; Certifications
-
-<div align="center">
-
-| Certification | Issuer | Date |
-|---|---|---|
-| Getting Started with AI on Jetson Nano | <img src="https://cdn.simpleicons.org/nvidia/76b900" width="14"/> NVIDIA | Apr 2026 |
-| AI Capabilities and Limitations | <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="14"/> Anthropic | Apr 2026 |
-| AI Fluency Framework & Foundations | <img src="https://cdn.simpleicons.org/anthropic/ffffff" width="14"/> Anthropic | Apr 2026 |
-| Segurança de Endpoint | <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="14"/> Cisco | Oct 2025 |
-| Inglês para TI 1 — B2 Level | <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="14"/> Cisco | Oct 2025 |
-| Master Class Gurus — TCS CodeVita Season 12 | TCS CodeVita | Nov 2024 |
-| ExxonMobil Data & Analytics' Day | Universidade Positivo | Oct 2024 |
-| Workshop Liderança e Comunicação | Universidade Positivo | Sep 2023 |
-| Speaker — Viasoft Connect | VIASOFT | Jun 2023 |
-
-</div>
-
----
-
-## <img src="https://cdn.simpleicons.org/githubactions/4d9fff" width="22" align="center"/> &nbsp; GitHub Statistics
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Camillox2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=4d9fff&text_color=c9d1d9&ring_color=1a3ab8"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camillox2&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4d9fff&text_color=c9d1d9"/>
+### Build purposeful software. Automate what slows people down. Use AI where it creates real value.
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Camillox2&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a3ab8&ring=4d9fff&fire=4d9fff&currStreakLabel=4d9fff&sideLabels=4d9fff&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff"/>
-
-</div>
-
----
-
-## <img src="https://cdn.simpleicons.org/trophy/4d9fff" width="22" align="center"/> &nbsp; GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Camillox2&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-
-</div>
-
----
-
-<div align="center">
-
-<br/>
-
-### Let's build something extraordinary.
-
-<a href="https://linkedin.com/in/vitor-henrique-camillo">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:vitorcamilloh@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
 <a href="https://dcfoundrydigital.com">
-  <img src="https://img.shields.io/badge/DC%20Foundry%20Digital-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Explore-DC%20Foundry%20Digital-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DC Foundry Digital"/>
+</a>
+<a href="mailto:vitorcamilloh@gmail.com">
+  <img src="https://img.shields.io/badge/Let's%20Build-Something%20Great-0a0f1e?style=for-the-badge&logo=gmail&logoColor=4D9FFF" alt="Contact Vitor"/>
 </a>
 
 <br/><br/>
 
-<sub><sup>
-  <img src="https://cdn.simpleicons.org/github/4d9fff" width="10"/> &nbsp; Vitor Henrique Camillo · Curitiba, Brazil · <strong>dcfoundrydigital.com</strong>
-</sup></sub>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3ab8,50:0d2260,100:0a0f1e&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0a0f1e,70:0d2260,100:1a3ab8&height=125&section=footer" width="100%"/>
 
 </div>
