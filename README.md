@@ -1,212 +1,318 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0f1e,70:0d2260,100:1a3ab8&height=230&section=header&text=VITOR%20HENRIQUE%20CAMILLO&fontSize=39&fontColor=ffffff&animation=fadeIn&fontAlignY=39&desc=Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20Full%20Stack%20%26%20Mobile%20%7C%20AI%20%26%20Cloud&descAlignY=61&descColor=4d9fff&descSize=16&stroke=1a3ab8&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:1f2937,100:374151&height=220&section=header&text=VITOR%20HENRIQUE%20CAMILLO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20Full%20Stack%20%7C%20AI%20%26%20LLMs&descAlignY=60&descColor=d1d5db&descSize=16" width="100%"/>
 
-<br/>
+### Software Engineer building production systems, enterprise integrations and applied AI
 
-<img src="./dcsemfundooriginal.png" width="170" alt="DC Foundry Digital logo"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitor%20Camillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-henrique-camillo)
+[![GitHub](https://img.shields.io/badge/GitHub-Camillox2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Camillox2)
+[![Email](https://img.shields.io/badge/Email-vitorcamilloh%40gmail.com-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorcamilloh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC%20Foundry%20Digital-222222?style=for-the-badge&logo=vercel&logoColor=white)](https://dcfoundrydigital.com)
 
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=4D9FFF&center=true&vCenter=true&width=760&lines=B.Sc.+in+Software+Engineering+—+Graduate;Tech+Lead+%40+Vital+Scheffer;Founder+%26+Lead+Software+Engineer+%40+DC+Foundry+Digital;Full+Stack+%E2%80%A2+Mobile+%E2%80%A2+AI+Automation+%E2%80%A2+AWS;Italian+Citizen+%E2%80%A2+Open+to+Portugal+%26+the+EU)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://dcfoundrydigital.com">
-  <img src="https://img.shields.io/badge/DC%20FOUNDRY%20DIGITAL-Founder%20%26%20Lead%20Engineer-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0f1e" alt="DC Foundry Digital"/>
-</a>
-
-<br/><br/>
-
-<a href="https://linkedin.com/in/vitor-henrique-camillo">
-  <img src="https://img.shields.io/badge/LinkedIn-Vitor%20Camillo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:vitorcamilloh@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Camillox2">
-  <img src="https://img.shields.io/badge/GitHub-Camillox2-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://dcfoundrydigital.com">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1a3ab8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Camillox2&label=PROFILE%20VIEWS&color=1a3ab8&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Camillox2&label=PROFILE%20VIEWS&color=555555&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About me
 
-```typescript
+I am a **Software Engineer** graduated from **Universidade Positivo (2026)** and currently work as a **Tech Lead & Full Stack Developer at Vital Scheffer**.
+
+My day-to-day work combines **technical leadership, architecture, backend, frontend, integrations, automation and applied AI**. I currently lead **2 development interns**, organize the team's work with **Scrum, dailies and weeklies**, review code and use **Gemini-assisted Pull Request reviews** to speed up engineering work while keeping human technical validation before merge.
+
+I enjoy building systems that solve operational problems end to end — from database and APIs to interfaces, integrations, deployment and production support.
+
+```ts
 const vitor = {
-  role: "Software Engineer & Tech Lead",
-  education: "B.Sc. in Software Engineering — Universidade Positivo",
-  company: "Founder & Lead Software Engineer at DC Foundry Digital",
+  role: "Software Engineer | Tech Lead | Full Stack Developer",
   location: "Curitiba, Brazil",
-  workAuthorization: "Italian citizen — authorized to work across the European Union",
-  focus: [
-    "Full Stack Development",
-    "Mobile Applications",
-    "AI Agents & Business Automation",
-    "Cloud Solutions with AWS"
+  education: "B.Sc. in Software Engineering — Universidade Positivo",
+  mainStack: [
+    "TypeScript / JavaScript",
+    "React / Next.js",
+    "Node.js",
+    "Java / Spring Boot",
+    "Python / PyTorch",
+    "PostgreSQL / MySQL / Redis",
+    "Docker / AWS"
   ],
-  currentlyBuilding: "Scalable digital products that connect software, automation and AI"
+  focus: [
+    "Enterprise Software",
+    "Backend & Integrations",
+    "Full Stack Development",
+    "AI / LLM Engineering",
+    "Technical Leadership"
+  ]
 };
 ```
 
-I build **web, mobile and backend products** with a strong focus on business impact, maintainability and real-world delivery. My experience includes corporate systems, ERP integrations, NF-e and inventory automation, mobile applications published to the App Store and Google Play, and AI-powered workflows for customer service, sales and operations.
+---
 
-Today, I work as a **Tech Lead at Vital Scheffer** and lead **DC Foundry Digital**, creating custom software, websites, automations and applied AI solutions for businesses.
+## What I am working on now
+
+### Vital Scheffer — Tech Lead & Full Stack Developer
+
+I lead and develop internal platforms connecting **commercial, manufacturing, logistics, finance and e-commerce operations**.
+
+**MKI Hub**
+- Integration between **ERP OMIE** and marketplaces such as **Shopee, Amazon, Mercado Livre and TikTok Shop**
+- Inventory synchronization
+- SKU cross-checking to identify inconsistent listings
+- Competitor monitoring
+- ABC inventory / sales analysis
+
+**NextStep CRM**
+- Corporate CRM with **ANA AI powered by Gemini** for customer service and lead qualification
+- Management KPIs and dashboards
+- PCP and public tender modules
+- Internal chat with calls and screen sharing using **WebSockets**
+- Freight quotation and logistics dashboard
+- Contract and checklist workflows integrated with **D4Sign**
+- Payment reconciliation and OMIE receivable settlement workflows
+
+**VitalOps**
+- Factory-oriented operational tools
+- Legacy-to-new product code conversion flows
+- Automated OMIE stock movements for requested products
+- 3D product visualization
+- Approval workflows for customized product projects
+
+**Engineering leadership**
+- Directly support and manage **2 development interns**
+- Technical prioritization, code review and delivery follow-up
+- **Scrum, dailies and weeklies**
+- Gemini-assisted PR review and code analysis
+
+I also develop and maintain institutional websites and landing pages for the company, including **vitalscheffer.com.br**.
 
 ---
 
-## 🚀 Current Focus
+## Previous professional experience
 
-- Leading software development and mentoring a small technical team
-- Building enterprise automations and integrations with **AWS, ERP/Omie and AI**
-- Developing web and mobile products with **React, React Native, Flutter, Java and Node.js**
-- Expanding my cloud architecture knowledge toward AWS professional certifications
-- Preparing for software engineering opportunities in **Portugal and across the European Union**
+### DIXI Soluções — Full Stack Developer
+**Nov 2025 — Dec 2025**
+
+- Took ownership of the main time-tracking platform and its production evolution
+- Fixed critical issues across **Java** backend and **Flutter** applications
+- Built a new inventory application integrated with **ERP OMIE** using React, Java and MySQL
+- Planned and executed production migrations while preserving data integrity and availability
+
+### Tecnoponto — Full Stack Developer
+**Jun 2025 — Nov 2025**
+
+- Owned the time-tracking ecosystem end to end
+- Built an iOS/Android app in **React Native** with geolocation, offline-first validation and background synchronization
+- Managed the complete publication process for **Apple App Store and Google Play**
+- Built high-availability **Java REST APIs** for auditable time records
+- Reworked web modules in **Flutter/Dart**, including management reports and auditing flows
+
+### EVO Sistemas Inteligentes — Development Intern
+**Jan 2025 — Jun 2025**
+
+- Designed and implemented the **IPM time-tracking ecosystem** using distributed services in **Node.js and Java**
+- The system managed employee time records for **8 municipalities / city governments**
+- Integrated facial-recognition hardware with real-time data synchronization via MySQL
+- Built a React Native app for time registration, timesheets and justifications
+- Reduced technical debt in legacy Java and Flutter systems
+
+> EVO Sistemas Inteligentes, Tecnoponto and DIXI Soluções are part of the same business group.
 
 ---
 
-## 🧰 Technology Stack
+## AI / LLM project
+
+### [Keilinks — PT-BR LLM from scratch](https://github.com/Camillox2/Keilinks)
+
+Keilinks is my hands-on research project in **training a language model from scratch on consumer hardware**.
+
+The current **Keilinks Core 380M** is not a fine-tune of Qwen, Llama or another ready-made LLM. Its main Transformer architecture is implemented inside the project and its weights are initialized and trained by the Keilinks pipeline.
+
+**Current model profile**
+- ~**380M parameters**
+- **32,000-token vocabulary**
+- **24 Transformer layers**
+- Hidden size **1152**
+- **18 attention heads / 6 KV heads**
+- Grouped Query Attention
+- RMSNorm
+- SwiGLU
+- RoPE
+- QK-Norm
+- KV cache
+- **8,192-token context**
+- PyTorch pre-training + conversational SFT
+- Local RAG and grounding experiments
+
+The model is trained locally on an **RTX 5050 Laptop GPU with 8 GB VRAM**, using optimizations such as **BF16/TF32, AdamW 8-bit, gradient checkpointing and `torch.compile`**.
+
+External models can optionally work only as **teacher / critic** for part of the synthetic dataset; they do not replace the Keilinks Core weights.
+
+---
+
+## Selected projects
+
+### [Grupo YR Hospitalar — Institutional Website + CRM](https://github.com/Camillox2/grupoyr)
+Production project for a healthcare equipment company.
+
+- Institutional website and catalog built with **React + Vite**
+- SEO/prerender and structured data with JSON-LD
+- Blog and admin workflows
+- Serverless database with **Neon**
+- Deployment with **Vercel / Cloudflare**
+- Gemini backend integration
+- Commercial CRM for customer relationship and sales operations
+
+Production site: **https://site.grupoyrhospitalar.com.br**
+
+### Entre Fases — Women's Health App
+Mobile application built with **React Native**, **Java Spring Boot** and **Gemini AI**, covering menstrual cycle, pregnancy and menopause experiences.
+
+### [Dr. Adriano Camillo — Institutional Website](https://dradrianocamillo.com)
+Responsive React.js institutional website delivered as a freelance project and running in production.
+
+### [CNHora — Product Landing Page](https://cnhora.com.br)
+Conversion-oriented responsive landing page built with HTML, CSS and JavaScript.
+
+### Sapphire Days — Visual Novel
+Published visual novel built with **Ren'Py**, including branching routes, player choices, original soundtrack and releases for Windows, macOS and Linux.
+
+---
+
+## Technology stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python,dart,kotlin,swift,cs,html,css&perline=10" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,dart,kotlin,swift,cs,html,css&perline=10" alt="Languages"/>
 </p>
 
 ### Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,flutter&perline=8" alt="Frontend and mobile"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,flutter&perline=8" alt="Frontend and Mobile"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </p>
 
-### Backend, Cloud & Data
+### Backend & Integrations
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,aws,docker,mysql,postgres,prisma,redis&perline=8" alt="Backend, cloud and databases"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,spring&perline=8" alt="Backend"/>
 </p>
 
-### AI, Development & Delivery
+- REST APIs
+- WebSockets
+- ERP OMIE
+- D4Sign
+- Marketplace integrations
+- Amazon, Mercado Livre, Shopee and TikTok Shop workflows
+
+### Data, Cloud & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio&perline=8" alt="Development tools"/>
-  <img src="https://img.shields.io/badge/Generative_AI-0A0F1E?style=for-the-badge&logo=openai&logoColor=4D9FFF" alt="Generative AI"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-0A0F1E?style=for-the-badge&logo=googlegemini&logoColor=4D9FFF" alt="Gemini AI"/>
-  <img src="https://img.shields.io/badge/NVIDIA_CUDA-0A0F1E?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="NVIDIA CUDA"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,prisma,aws,docker,git,github,vercel,cloudflare,linux&perline=8" alt="Data Cloud and DevOps"/>
 </p>
 
----
+### AI / Machine Learning
 
-## 💼 Professional Highlights
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111111" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-222222?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini AI"/>
+  <img src="https://img.shields.io/badge/Ollama-222222?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+</p>
 
-| Area | Experience |
-|---|---|
-| **Technical Leadership** | Leading development activities, organizing deliveries and supporting junior developers |
-| **Enterprise Software** | Corporate systems, business rules, maintenance, integrations and operational workflows |
-| **Automation** | NF-e, billing, inventory, ERP/Omie, customer service and sales automation |
-| **Mobile Engineering** | React Native and Flutter apps for Android and iOS, including store publication |
-| **Backend Engineering** | Java Spring Boot, Node.js, REST APIs, relational databases and system integrations |
-| **Applied AI** | Local AI, Gemini integrations, AI assistants, lead-generation flows and autonomous agents |
-| **Cloud** | Practical experience with AWS services including EC2, IAM and S3 |
-
----
-
-## 🌟 Selected Projects
-
-### [DC Foundry Digital](https://dcfoundrydigital.com)
-Software studio focused on websites, web and mobile applications, business automation and applied artificial intelligence. The platform includes an integrated AI assistant and showcases custom digital solutions.
-
-### Keilinks — Local AI Platform
-Local AI environment built with Python, CUDA and GPU acceleration, exploring assistants, agents, private inference and business automation.
-
-### Entre Fases
-Mobile application developed with **React Native**, **Java Spring Boot** and **Gemini AI**, designed to support women's health tracking and intelligent guidance.
-
-### Sapphire Days
-A published visual novel built with **Ren'Py**, featuring branching routes, player choices, original soundtrack and releases for Windows, macOS and Linux.
-
-### Enterprise & Client Solutions
-Development of corporate tools, ERP integrations, mobile time-tracking systems, responsive websites, landing pages and custom platforms for real clients.
+- Transformer architectures
+- LLM pre-training
+- Supervised fine-tuning (SFT)
+- RAG
+- Local inference
+- AI agents and workflow automation
+- AI-assisted code review
 
 ---
 
-## 🎓 Education & Professional Development
+## Education
 
 ### Bachelor of Science in Software Engineering
 **Universidade Positivo — Curitiba, Brazil**  
-Completed in 2026
-
-### AWS Learning — Alura
-- **AWS Certified Cloud Practitioner: Domains 1 & 2**
-- **AWS Certified Cloud Practitioner: Domains 3 & 4**
-
-### Artificial Intelligence
-- **AI Fluency for Small Businesses** — Anthropic
-- **Introduction to Subagents** — Anthropic
-- **AI Capabilities and Limitations** — Anthropic
-- **AI Fluency Framework & Foundations** — Anthropic
-- **Getting Started with AI on Jetson Nano** — NVIDIA
-
-### Additional Training
-- **English for IT 1** — Cisco
-- **Endpoint Security** — Cisco
-- Speaker at **ExxonMobil Data & Analytics Day**
-- Speaker at **Viasoft Connect**
+Completed in **July 2026**
 
 ---
 
-## 📊 GitHub Analytics
+## Certifications & professional development
+
+**OpenAI**
+- Agents and Workflows — 2026
+
+**Anthropic**
+- AI Fluency for Builders — 2026
+- AI Fluency for Small Businesses — 2026
+- Introduction to Subagents — 2026
+- AI Capabilities and Limitations — 2026
+- AI Fluency Framework & Foundations — 2026
+
+**Google**
+- Generative AI Agents: Transform Your Organization — 2026
+- Generative AI Apps: Transform Your Work — 2026
+- Generative AI: Understand the Current Landscape — 2026
+- Generative AI: Beyond the Chatbot — 2026
+- Generative AI: Fundamentals — 2026
+
+**NVIDIA**
+- Getting Started with AI on Jetson Nano — 2026
+
+**AWS preparation — Alura**
+- AWS Cloud Practitioner: Domains 1 & 2 — 2026
+- AWS Cloud Practitioner: Domains 3 & 4 — 2026
+
+**Cisco**
+- English for IT 1 — **B2 technical level**
+- Endpoint Security
+
+**Other highlights**
+- ExxonMobil Data & Analytics Day — Universidade Positivo
+- Leadership & Communication Workshop — Universidade Positivo
+- Speaker at VIASOFT Connect
+- TCS CodeVita Season 12 Master Class
+
+---
+
+## GitHub analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Camillox2&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=4D9FFF&text_color=E6EDF3&icon_color=1A3AB8&bg_color=0D1117" alt="Vitor's GitHub statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Camillox2&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=111827&text_color=374151&icon_color=6b7280&bg_color=ffffff" alt="Vitor's GitHub statistics"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camillox2&layout=compact&hide_border=true&langs_count=8&title_color=4D9FFF&text_color=E6EDF3&bg_color=0D1117" alt="Most used languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Camillox2&hide_border=true&background=0D1117&ring=1A3AB8&fire=4D9FFF&currStreakLabel=4D9FFF&sideLabels=E6EDF3&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub streak"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camillox2&layout=compact&hide_border=true&langs_count=8&title_color=111827&text_color=374151&bg_color=ffffff" alt="Most used languages"/>
 
 </div>
 
-> GitHub language statistics reflect public repositories and do not represent the full scope of my professional work in private and corporate codebases.
+> GitHub language statistics reflect public repositories and do not represent the full scope of my work in private and corporate codebases.
 
 ---
 
-## 🌍 Let's Connect
+## Open to opportunities
 
-I am open to conversations about:
+I am interested in opportunities involving:
 
-- Software engineering and technical leadership
-- Full stack, backend and mobile development
-- AI agents, automation and cloud architecture
-- Freelance projects and digital product partnerships
-- Opportunities in **Portugal and across the European Union**
+- **Full Stack Development**
+- **Backend Engineering**
+- **React / Next.js / Node.js**
+- **Java / Spring Boot**
+- **Python / AI / LLM Engineering**
+- **Software Engineering**
+- **Technical Leadership**, when aligned with the role's expected experience level
+
+I am open to **CLT, contractor/PJ and freelance opportunities**, including remote and international teams.
 
 <div align="center">
 
-### Build purposeful software. Automate what slows people down. Use AI where it creates real value.
+### Build useful software. Automate real problems. Apply AI where it creates measurable value.
 
-<br/>
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-henrique-camillo)
+[![Email](https://img.shields.io/badge/Contact%20Me-Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorcamilloh@gmail.com)
 
-<a href="https://dcfoundrydigital.com">
-  <img src="https://img.shields.io/badge/Explore-DC%20Foundry%20Digital-1a3ab8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DC Foundry Digital"/>
-</a>
-<a href="mailto:vitorcamilloh@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Build-Something%20Great-0a0f1e?style=for-the-badge&logo=gmail&logoColor=4D9FFF" alt="Contact Vitor"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0a0f1e,70:0d2260,100:1a3ab8&height=125&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,50:1f2937,100:111111&height=110&section=footer" width="100%"/>
 
 </div>
