@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="./dcsemfundooriginal.png" width="150" alt="DC Foundry Digital" />
+<img src="./dcsemfundooriginal.png" width="130" alt="DC Foundry Digital" />
 
 # Vitor Henrique Camillo
+### Software Engineer · Tech Lead · Full Stack Developer · AI & LLMs
 
-### Software Engineer · Tech Lead · Full Stack · AI & LLMs
+[🇺🇸 **English**](./README.md) · [🇧🇷 Português](./README-PTBR.md)
 
-**English** · [Português 🇧🇷](./README-PTBR.md)
+Curitiba, Brazil · Open to Brazil, Portugal and EU opportunities
 
-Curitiba, Brazil · Open to opportunities in Brazil, Portugal and the European Union
-
-[LinkedIn](https://linkedin.com/in/vitor-henrique-camillo) · [GitHub](https://github.com/Camillox2) · [Portfolio](https://dcfoundrydigital.com) · [Email](mailto:vitorcamilloh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitor%20Camillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-henrique-camillo)
+[![GitHub](https://img.shields.io/badge/GitHub-Camillox2-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Camillox2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-DC%20Foundry%20Digital-222222?style=for-the-badge&logo=vercel&logoColor=white)](https://dcfoundrydigital.com)
 
 </div>
 
@@ -18,174 +19,115 @@ Curitiba, Brazil · Open to opportunities in Brazil, Portugal and the European U
 
 ## About me
 
-I am a **Software Engineer**, graduated from **Universidade Positivo in July 2026**, and currently work as a **Tech Lead & Full Stack Developer at Vital Scheffer**.
+Software Engineer graduated from **Universidade Positivo**, currently working as **Tech Lead & Full Stack Developer at Vital Scheffer**.
 
-My work combines **technical leadership, architecture, full stack development, enterprise integrations, automation and applied AI**. I currently lead the development of systems that connect commercial, manufacturing, logistics, finance, e-commerce and customer service operations, while directly managing **2 development interns**.
+I work with **technical leadership, full stack development, backend integrations, enterprise systems, automation and applied AI**. I also lead **2 development interns**, work with **Scrum, dailies and weeklies**, and use **Gemini-assisted PR review** to speed up engineering workflows.
 
-I enjoy building products end to end: understanding the problem, designing the solution, implementing backend and frontend, integrating services, reviewing code, deploying, monitoring production and continuously improving the product with the team.
-
----
-
-## What I do today
-
-### Vital Scheffer — Tech Lead & Full Stack Developer
-
-**Leadership & engineering process**
-- Direct technical management and mentoring of **2 development interns**
-- Technical prioritization, code review and delivery follow-up
-- Team workflow organized with **Scrum, dailies and weeklies**
-- **Gemini-assisted Pull Request review** and code analysis, always with human validation before merge
-
-**MKI Hub**
-- Integration between **ERP OMIE** and **Shopee, Amazon, Mercado Livre and TikTok Shop**
-- Inventory synchronization and SKU cross-checking
-- Detection of inconsistent marketplace listings
-- Competitor monitoring
-- ABC analysis to support e-commerce operations
-
-**NextStep CRM**
-- Corporate CRM with **ANA AI**, powered by Gemini, for customer service and lead qualification
-- Management KPIs and dashboards
-- PCP and public tender modules
-- Internal chat with calls and screen sharing via **WebSockets**
-- Logistics and freight quotation dashboard
-- Contract and checklist workflows through **D4Sign**
-- Payment reconciliation and OMIE receivable settlement workflows
-
-**VitalOps**
-- Factory-oriented operational tools
-- Legacy-to-new product code conversion flows
-- Automated OMIE stock movements for requested products
-- 3D product visualization
-- Approval workflows for customized product projects
-
-I also develop and maintain institutional websites and landing pages for the company, including **vitalscheffer.com.br**.
+> I build useful software, solve real operational problems and apply AI where it creates measurable value.
 
 ---
 
-## Flagship project — Keilinks Core 380M
+## Quick profile
 
-### [Keilinks — PT-BR LLM from scratch](https://github.com/Camillox2/Keilinks)
-
-**Keilinks Core 380M** is my hands-on research and engineering project in local language models. The main model is not simply a fine-tune of an existing LLM: its Transformer architecture is implemented inside the project, and the weights are initialized and trained by the Keilinks pipeline.
-
-- ~**380 million parameters**
-- Transformer decoder implemented in **PyTorch**
-- **32,000-token vocabulary**
-- **24 layers**, GQA, RoPE, RMSNorm, SwiGLU and QK-Norm
-- **8,192-token context** and KV cache
-- Own pre-training pipeline + **conversational SFT**
-- Data pipeline with cleaning, deduplication and provenance tracking
-- **Local RAG**, grounding and memory experiments
-- Trained locally on an **RTX 5050 Laptop GPU with 8 GB VRAM**
-- Optimized with BF16/TF32, AdamW 8-bit, gradient checkpointing and `torch.compile`
-
-External models can optionally act as **teacher / critic** for part of the synthetic dataset, but they do not replace the Keilinks Core weights.
+| Topic | Details |
+|---|---|
+| **Current role** | Tech Lead & Full Stack Developer @ Vital Scheffer |
+| **Education** | B.Sc. in Software Engineering — Universidade Positivo |
+| **Main stack** | React, Next.js, Node.js, Java, Spring Boot, Python, SQL, AWS, Docker |
+| **Focus areas** | Full Stack, Backend, Integrations, AI/LLMs, Technical Leadership |
 
 ---
 
-## Professional experience
+## Current role — Vital Scheffer
 
-| Period | Company | Role |
-|---|---|---|
-| **Jun 2026 — Present** | Vital Scheffer | **Tech Lead & Full Stack Developer** |
-| **Nov 2025 — Dec 2025** | DIXI Soluções | Full Stack Developer |
-| **Jun 2025 — Nov 2025** | Tecnoponto | Full Stack Developer |
-| **Jan 2025 — Jun 2025** | EVO Sistemas Inteligentes | Development Intern |
+### Highlights
+- Lead and build internal systems connecting **sales, logistics, manufacturing, finance and e-commerce**
+- Directly manage **2 development interns**
+- Work with **Scrum**, **dailies** and **weeklies**
+- Use **Gemini** for assisted Pull Request review
+- Build and maintain websites and landing pages, including **vitalscheffer.com.br**
 
-> EVO Sistemas Inteligentes, Tecnoponto and DIXI Soluções belong to the same business group.
+### Main systems
+- **MKI Hub**  
+  ERP OMIE integrations with **Shopee, Amazon, Mercado Livre and TikTok Shop**, stock sync, SKU matching, competitor mapping and ABC analysis
 
-At **EVO**, I designed and implemented the **IPM time-tracking ecosystem** using Node.js and Java, responsible for managing time records for **8 municipalities / city governments**. I also worked with facial-recognition hardware integration, real-time MySQL synchronization, React Native, Java and Flutter.
+- **NextStep CRM**  
+  CRM with **Gemini-powered AI**, dashboards, PCP, public tender workflows, WebSocket chat/calls, freight quotation, D4Sign contracts and payment reconciliation
 
-At **Tecnoponto**, I owned the time-tracking ecosystem end to end, building a React Native iOS/Android application, Java APIs, App Store and Google Play publication flows, and web-platform improvements in Flutter.
-
-At **DIXI**, I worked on production support and platform evolution, fixed critical issues and built an inventory application integrated with **ERP OMIE** using React, Java and MySQL.
+- **VitalOps**  
+  Factory-focused tools, legacy/new code conversion, automated OMIE stock movement, 3D product visualization and approval flows
 
 ---
 
 ## Selected projects
 
-### [Grupo YR Hospitalar — Institutional Website + CRM](https://github.com/Camillox2/grupoyr)
-Commercial full stack project for a healthcare equipment company, built with **React, Vite, Neon Serverless, Gemini, Vercel and Cloudflare**.
+- [**Keilinks**](https://github.com/Camillox2/Keilinks)  
+  Authorial PT-BR LLM project with **Core 380M**, pre-training, SFT, local RAG and optimization for consumer GPUs
 
-Production site: [site.grupoyrhospitalar.com.br](https://site.grupoyrhospitalar.com.br)
+- [**Grupo YR Hospitalar**](https://github.com/Camillox2/grupoyr)  
+  Institutional website, catalog and CRM for hospital equipment sales and rentals
 
-### Entre Fases
-Women's health mobile application built with **React Native, Java Spring Boot and Gemini AI**, covering menstrual cycle, pregnancy and menopause experiences.
+- **Entre Fases**  
+  Women’s health app for menstrual cycle, pregnancy and menopause support
 
-### [Dr. Adriano Camillo — Institutional Website](https://dradrianocamillo.com)
-Responsive React.js institutional website delivered as a freelance project and running in production.
+- [**Dr. Adriano Camillo**](https://dradrianocamillo.com)  
+  Responsive institutional website in production
 
-### [CNHora — Landing Page](https://cnhora.com.br)
-Conversion-oriented responsive landing page built with HTML, CSS and JavaScript.
+- [**CNHora**](https://cnhora.com.br)  
+  Conversion-focused landing page
 
-### Sapphire Days
-Published visual novel built with Ren'Py, featuring branching routes, player choices, original soundtrack and releases for Windows, macOS and Linux.
-
----
-
-## Technical stack
-
-**Frontend & Mobile**  
-<kbd>React</kbd> <kbd>Next.js</kbd> <kbd>TypeScript</kbd> <kbd>JavaScript</kbd> <kbd>Tailwind CSS</kbd> <kbd>React Native</kbd> <kbd>Flutter</kbd>
-
-**Backend & Integrations**  
-<kbd>Node.js</kbd> <kbd>Java</kbd> <kbd>Spring Boot</kbd> <kbd>REST APIs</kbd> <kbd>WebSockets</kbd> <kbd>OMIE</kbd> <kbd>D4Sign</kbd>
-
-**AI & Machine Learning**  
-<kbd>Python</kbd> <kbd>PyTorch</kbd> <kbd>Transformers</kbd> <kbd>LLM Training</kbd> <kbd>SFT</kbd> <kbd>RAG</kbd> <kbd>Gemini</kbd> <kbd>Ollama</kbd>
-
-**Data, Cloud & DevOps**  
-<kbd>PostgreSQL</kbd> <kbd>PostGIS</kbd> <kbd>MySQL</kbd> <kbd>SQLite</kbd> <kbd>Redis</kbd> <kbd>Docker</kbd> <kbd>AWS</kbd> <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>Vercel</kbd> <kbd>Cloudflare</kbd>
+- **Sapphire Days**  
+  Published visual novel built with Ren’Py
 
 ---
 
-## Education
+## Experience
 
-**Bachelor of Science in Software Engineering**  
-Universidade Positivo — Curitiba, Brazil  
-**Completed in July 2026**
+### DIXI Soluções — Full Stack Developer
+**Nov 2025 — Dec 2025**
+- Owned the main time-tracking platform
+- Fixed critical issues in **Java** and **Flutter**
+- Built an inventory system integrated with **OMIE**
+- Executed production migrations safely
+
+### Tecnoponto — Full Stack Developer
+**Jun 2025 — Nov 2025**
+- Owned the time-tracking ecosystem end to end
+- Built a **React Native** app with geolocation and background sync
+- Managed publishing to **App Store** and **Google Play**
+- Built high-availability **Java REST APIs**
+
+### EVO Sistemas Inteligentes — Development Intern
+**Jan 2025 — Jun 2025**
+- Built the **IPM** time-tracking ecosystem with **Node.js** and **Java**
+- System handled employee time records for **8 city governments**
+- Integrated facial-recognition hardware with real-time sync
+- Built a React Native app for time registration and justifications
+
+> EVO Sistemas Inteligentes, Tecnoponto and DIXI Soluções belong to the same business group.
 
 ---
 
-## Certifications & professional development
+## Tech stack
+
+**Languages:** JavaScript, TypeScript, Python, Java, Dart, Kotlin, Swift, C#, SQL  
+**Frontend & Mobile:** React, Next.js, Angular, React Native, Flutter, Tailwind CSS  
+**Backend & Infra:** Node.js, Spring Boot, REST APIs, WebSockets, PostgreSQL, MySQL, Redis, Docker, AWS, Vercel, Cloudflare  
+**AI / ML:** PyTorch, Transformers, SFT, RAG, Ollama, Gemini, local inference, AI agents
+
+---
+
+## Certifications
 
 <details>
 <summary><strong>View certifications</strong></summary>
 
-### OpenAI
-- Agents and Workflows — 2026
-
-### Anthropic
-- AI Fluency for Builders — 2026
-- AI Fluency for Small Businesses — 2026
-- Introduction to Subagents — 2026
-- AI Capabilities and Limitations — 2026
-- AI Fluency Framework & Foundations — 2026
-
-### Google
-- Generative AI Agents — 2026
-- Generative AI Apps — 2026
-- Generative AI: Current Landscape — 2026
-- Generative AI: Beyond the Chatbot — 2026
-- Generative AI Fundamentals — 2026
-
-### NVIDIA
-- Getting Started with AI on Jetson Nano — 2026
-
-### AWS / Alura
-- AWS Cloud Practitioner preparation — Domains 1 & 2 — 2026
-- AWS Cloud Practitioner preparation — Domains 3 & 4 — 2026
-
-### Cisco
-- English for IT 1 — B2 technical level
-- Endpoint Security
-
-### Other highlights
-- ExxonMobil Data & Analytics Day — Universidade Positivo
-- Leadership & Communication Workshop — Universidade Positivo
-- Speaker at VIASOFT Connect
-- TCS CodeVita Season 12 Master Class
+- OpenAI — Agents and Workflows  
+- Anthropic — AI Fluency for Builders / Small Businesses / Subagents / Capabilities and Limitations  
+- Google — Generative AI courses  
+- NVIDIA — Getting Started with AI on Jetson Nano  
+- AWS preparation — Cloud Practitioner Domains 1–4  
+- Cisco — English for IT 1 (B2) / Endpoint Security  
 
 </details>
 
@@ -193,16 +135,19 @@ Universidade Positivo — Curitiba, Brazil
 
 ## Open to opportunities
 
-I am interested in roles involving:
+I am especially interested in roles related to:
 
-**Full Stack Development** · **Backend Engineering** · **React / Next.js / Node.js** · **Java / Spring Boot** · **Python / AI / LLM Engineering** · **Software Engineering** · **Technical Leadership**, when aligned with the expected experience level.
-
-Open to **full-time, contractor, freelance, remote and international opportunities**.
+- Full Stack Development
+- Backend Engineering
+- React / Next.js / Node.js
+- Java / Spring Boot
+- Python / AI / LLM Engineering
+- Technical Leadership, when compatible with the expected level
 
 <div align="center">
 
-### Build useful software. Automate real problems. Apply AI where it creates meaningful value.
+### Let’s build software that solves real problems.
 
-[LinkedIn](https://linkedin.com/in/vitor-henrique-camillo) · [Portfolio](https://dcfoundrydigital.com) · [Email](mailto:vitorcamilloh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-henrique-camillo)
 
 </div>
